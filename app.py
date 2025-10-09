@@ -1,4 +1,4 @@
 
-nombre = input("¿Cómo te llamas? ")
+nombre = input("Buenos días, ¿Cómo te llamas? ")
 print("¡Hola, " + nombre + "!")
 
