@@ -1,4 +1,4 @@
 
 nombre = input("Buenos días, ¿Cómo te llamas? ")
-print("¡Hola, " + nombre + "!")
+print("¡Hola, {nombre}!".upper())
 
